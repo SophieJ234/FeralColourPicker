@@ -1,0 +1,43 @@
+name,hexCode,rarity,colourTag,colourName
+Shadow Purple,#261D36,COMMON,7,purple
+Shadow Blue,#1C2035,COMMON,8,darkBlue
+Shadow Teal,#0D2322,COMMON,10,greenBlue
+Shadow Green,#1D2413,COMMON,11,green
+Shadow Red,#2C1013,COMMON,5,red
+Shadow Pink,#2D0721,COMMON,6,pink
+Black,#1A1A1A,COOL,0,value
+Grey,#3F4658,COMMON,0,value
+Slate,#C3C5C9,COOL,0,value
+Off-White,#E2E2E2,COMMON,0,value
+White,#FFFFFF,COMMON,0,value
+Golurple,#B46451,COOL,5,red
+Brown,#795341,COMMON,4,orange
+Light Brown,#B2805C,COMMON,3,lightOrange
+Burgundy,#450A21,COMMON,6,pink
+Indigo,#310F7F,COMMON,7,purple
+Violet,#BA51D8,COOL,7,purple
+Purple,#4D076A,COMMON,7,purple
+Lavendar,#A084DF,COOL,7,purple
+Blue,#1C3FAD,COMMON,8,blue
+Light Blue,#69BAFF,COOL,9,lightBlue
+Cyan,#44F1E9,COOL,10,greenBlue
+Teal,#00AEA6,COMMON,10,greenBlue
+Forest Green,#55721B,COOL,11,green
+Verdania,#62A538,COOL,11,green
+Green,#01B366,COMMON,12,lightGreen
+Light Green,#5AEFA1,COOL,12,lightGreen
+Olive,#8C9A00,COMMON,12,lightGreen
+New Lime,#F1F467,COMMON,12,lightGreen
+Goldenrod,#E2A613,COMMON,2,yellowOrange
+Yellow,#FFF54D,COMMON,1,yellow
+Pastel Yellow,#FFEEA2,COMMON,2,yellowOrange
+Tan,#FFA561,COMMON,3,lightOrange
+Cream,#FEF9B8,COMMON,1,yellow
+Bold Orange,#FF8A12,COOL,4,orange
+Orange,#F74D3E,COMMON,4,orange
+Red,#A60D3C,COMMON,6,pink
+Blood Red,#850012,COOL,5,red
+Blush,#E00032,COMMON,6,pink
+Mauve,#924C5A,COOL,7,purple
+Pink,#EB526F,COOL,6,pink
+Rose,#FFABC0,COMMON,6,pink
